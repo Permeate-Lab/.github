@@ -6,3 +6,5 @@
 Market research, intelligence, and analytics. A Nova3 AI research practice.
 
 [permeatelab.com](https://permeatelab.com)
+
+Public research data: [Permeate-Lab/permeate-data](https://github.com/Permeate-Lab/permeate-data)
